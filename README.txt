@@ -1,4 +1,4 @@
-This program takes any two integers given by the user's input and uses the process of division by subtraction to divide them.
+This program takes any two integers given by the user's input and uses the process of division by subtraction to divide them. The process of division by subtraction works because when we break it down, we can see that the count in my program is the quotient. This is because the count is just the amount of times we iterate through the loop, in other words, it's the amount of times we can "fit" the divisor into the dividend. As for the remainder, this works because as we subtract the divisor from the dividend, we are breaking down the two numbers until the dividend is less than the divisor. This is relavent because once the dividend is less than the divisor, the divisor will no longer go into the dividend, thus, we are left with the remaining amount.
 
 To run: 
 run via idle for python
